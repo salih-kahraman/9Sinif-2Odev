@@ -23,7 +23,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** 21,8x+0,23=y
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:** Çünkü denklemde sabit terim var.
+**Cevap:**  y=0,23 Çünkü denklemde sabit terim var.
 
 
 
